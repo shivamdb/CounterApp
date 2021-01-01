@@ -1,6 +1,6 @@
 # CounterApp
-A basic app which keeps track of how number of counters with non zero values and displays them
-Allows basic job of addind and deleting the counter and increasing the number for a counter
+A basic app which keeps track of number of counters with non zero values and displays them.
+Also allows the basic job of adding and deleting a counter and increasing the number for a given counter.
 
 ## Available Scripts
 
