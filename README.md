@@ -1,6 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# CounterApp
+A basic app which keeps track of how number of counters with non zero values and displays them
+Allows basic job of addind and deleting the counter and increasing the number for a counter
 
 ## Available Scripts
 
